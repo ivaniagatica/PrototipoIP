@@ -1,0 +1,12 @@
+C:\Users\Alejandra\Desktop\PruevaMVC\PruevaMVC\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Alejandra\Desktop\PruevaMVC\PruevaMVC\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandra\Desktop\PruevaMVC\PruevaMVC\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Alejandra\Desktop\PruevaMVC\PruevaMVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Desktop\PruevaMVC\PruevaMVC\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Alejandra\Desktop\PruevaMVC\PruevaMVC\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\Alejandra\Desktop\nc\PruevaMVC\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Alejandra\Desktop\nc\PruevaMVC\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandra\Desktop\nc\PruevaMVC\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Alejandra\Desktop\nc\PruevaMVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\Desktop\nc\PruevaMVC\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Alejandra\Desktop\nc\PruevaMVC\CapaModelo\obj\Debug\CapaModelo.pdb
