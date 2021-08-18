@@ -1,0 +1,6 @@
+C:\Users\Alejandra\Desktop\PrototipoIP\PrototipoIP\logisticainventario\logisticainventario\obj\Debug\netcoreapp3.1\logisticainventario.csproj.AssemblyReference.cache
+C:\Users\Alejandra\Desktop\PrototipoIP\PrototipoIP\logisticainventario\logisticainventario\obj\Debug\netcoreapp3.1\logisticainventario.clsConexion.resources
+C:\Users\Alejandra\Desktop\PrototipoIP\PrototipoIP\logisticainventario\logisticainventario\obj\Debug\netcoreapp3.1\logisticainventario.csproj.GenerateResource.cache
+C:\Users\Alejandra\Desktop\PrototipoIP\PrototipoIP\logisticainventario\logisticainventario\obj\Debug\netcoreapp3.1\logisticainventario.AssemblyInfoInputs.cache
+C:\Users\Alejandra\Desktop\PrototipoIP\PrototipoIP\logisticainventario\logisticainventario\obj\Debug\netcoreapp3.1\logisticainventario.AssemblyInfo.cs
+C:\Users\Alejandra\Desktop\PrototipoIP\PrototipoIP\logisticainventario\logisticainventario\obj\Debug\netcoreapp3.1\logisticainventario.csproj.CoreCompileInputs.cache
